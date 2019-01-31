@@ -45,7 +45,7 @@ The manager interface presents a list of four options, as below.
 	![image of manager update inventory](/images/manager_update_inventory.png)
 	![image of manager update inventory](/images/manager_db_updated.png)
 
-- The **Add New Product** option allows the user to enter details about a new product which will be entered into the database upon completion of the form. The new item will be visable in the database after updating.
+- The **Add New Product** option allows the user to enter details about a new product which will be entered into the database upon completion of the form.
 	![image of manager add item](/images/manager_add.png)
 	![image of manager add item](/images/manager_db_add.png)
 
