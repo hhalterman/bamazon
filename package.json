@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI-based storefront with the MySQL database backend.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhalterman/bamazon.git"
+  },
+  "keywords": [
+    "storefront",
+    "CLI-storefront",
+    "store"
+  ],
+  "author": "Hailey Halterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhalterman/bamazon.git/issues"
+  },
+  "homepage": "https://github.com/hhalterman/bamazon.git#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
